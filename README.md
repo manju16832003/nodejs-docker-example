@@ -16,6 +16,9 @@
 
 https://github.com/manju16832003/nodejs-docker-example/blob/master/Screen%20Shot%202017-12-03%20at%2014.13.07.png?raw=true
 
+Go to http://localhost:9191/ to check if Node app is running.
+
+
 
 
 
